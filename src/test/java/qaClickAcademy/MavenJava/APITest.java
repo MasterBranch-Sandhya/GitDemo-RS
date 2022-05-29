@@ -8,6 +8,7 @@ public class APITest {
 	public void postJira()
 	{
 		System.out.println("Post Jira Bug");
+		System.out.println("This is to check code changes in GIT");
 	}
 	
 	@Test
