@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+      <class name="qaClickAcademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:qaClickAcademy.MavenJava.SeleniumTest@67205a84]" name="closeBrowser" duration-ms="0" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:qaClickAcademy.MavenJava.SeleniumTest@67205a84]" name="openBrowser" duration-ms="0" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- qaClickAcademy.MavenJava.SeleniumTest -->
+      <class name="qaClickAcademy.MavenJava.APITest">
+        <test-method status="PASS" signature="closeJira()[pri:0, instance:qaClickAcademy.MavenJava.APITest@6737fd8f]" name="closeJira" duration-ms="3" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeJira -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaClickAcademy.MavenJava.APITest@6737fd8f]" name="postJira" duration-ms="1" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaClickAcademy.MavenJava.APITest -->
+      <class name="qaClickAcademy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="closeMobile()[pri:0, instance:qaClickAcademy.MavenJava.AppiumTest@7d0587f1]" name="closeMobile" duration-ms="1" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMobile -->
+        <test-method status="PASS" signature="openMobile()[pri:0, instance:qaClickAcademy.MavenJava.AppiumTest@7d0587f1]" name="openMobile" duration-ms="0" started-at="2022-04-26T18:07:31 IST" finished-at="2022-04-26T18:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMobile -->
+      </class> <!-- qaClickAcademy.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
